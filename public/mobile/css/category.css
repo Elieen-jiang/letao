@@ -49,4 +49,9 @@
 .category-right ul li a p {
   text-align: center;
 }
+.noresult {
+  padding: 10px;
+  font-size: 14px;
+  color: #f20;
+}
 /*# sourceMappingURL=category.css.map */
